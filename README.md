@@ -1,7 +1,6 @@
 # Spatrectory
+!! WORK IN PROGRESS !!
 A project maintained by two people, Project for Stardance's Hack Club
-
-WIP
 
 Upcoming website that will utilize CesiumJS, HTML, CSS, JavaScript
 
